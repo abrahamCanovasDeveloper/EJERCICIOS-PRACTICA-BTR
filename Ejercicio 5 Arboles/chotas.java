@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  *
  */
-public class Tema3Ejercicios {
+public class chotas {
 
     
     public static void main(String[] args) {
